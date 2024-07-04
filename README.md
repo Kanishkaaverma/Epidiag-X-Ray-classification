@@ -1,20 +1,15 @@
 # Detection of Covid-19 like chest infections from chest X-rays using deep learning.
 
 
-## Steps to run the application:
-1. Set up a virtual environment(optional).
-2. Clone the files maintaing the same directory structure.
-3. Navigate into the app directory to view the model and flask files.
-4. Install all the dependencies listed out on the 'requirements.txt' file under development phase directory.
-5. Execute all the cells of the ipynb file sequentially - To obtain the saved model manually.
-6. Open app.py using any IDE that supports flask framework.
-7. Run the program and open the specified port number on the browser.
+## Steps to Run the Application:
+1. (Optional) Set up a virtual environment.
+2. Clone the repository, preserving the directory structure.
+3. Navigate to the app directory to access the model and Flask files.
+4. Install all dependencies listed in the `requirements.txt` file located in the development phase directory.
+5. Execute all the cells in the Jupyter notebook (.ipynb) file sequentially to obtain the saved model manually.
+6. Open `app.py` in any IDE that supports the Flask framework.
+7. Run the program and open the specified port number in your browser.
 
-Note : This application was developed on MacOS(ARMX64). The library versions subject to other systems may be different.
-
-### Tech stack used:
-
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="arduino" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="arduino" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="arduino" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="arduino" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="arduino" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="arduino" width="40" height="40"/>
 
 ## Other specifics:
 1. Dataset : The dataset consists of 536 images of COVID-19, 619 images of viral pneumonia, and 668 images of normal cases.
