@@ -29,3 +29,4 @@ Note : This application was developed on MacOS(ARMX64). The library versions sub
 
 <img width="912" alt="Screenshot 2023-11-18 at 6 28 35 PM" src="https://github.com/rulezcasa/X---Ray-classification/assets/108048779/c92e4e5d-0c1b-4bab-9eec-2b92506d55f6">
 
+# sample
